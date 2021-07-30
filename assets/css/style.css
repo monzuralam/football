@@ -38,3 +38,23 @@ p{
 .clearfix{
     overflow: hidden;
 }
+
+ul,ol{
+    list-style: none;
+}
+
+li{
+    text-decoration: ;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+.btn{
+    background: #E02C6D;
+    border:0;
+    color:#fff;
+    padding: 10px 24px;
+}
